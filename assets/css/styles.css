@@ -1,0 +1,39 @@
+
+
+
+p, h2 {
+    color: white;
+}
+
+background {
+     
+     background-size: cover;
+}
+
+img {
+    height: 50px;
+    width: 55px;
+}
+
+body { 
+    /* The image used */
+    background-image: url("../images/bg03.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style: none;
+}
+
+.wrapper{
+    width:100px;
+    height:100px;
+    margin:0 auto;
+}

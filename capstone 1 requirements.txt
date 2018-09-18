@@ -1,0 +1,56 @@
+Capstone 1 requirements
+
+1. Minimum of 5 pages, Landing, Home, Contact Us, About Us, Gallery
+2. Website should be responsive
+3. No lorem ipsum or placeholder text.
+4. No horizontal text
+5. No stretched/pixelated images
+6. Proper directory structure
+7. Copyright disclaimer
+8. Navigation and Footer
+	a. No dead links
+9. Use of frameworks is highly recommended.
+10. Mp templates
+11. No bootstrap website
+
+Developer Portfolio
+1. Full name
+2. A decent photo of yoruself.
+3. Description of who you are
+4. Skills (Front end skills)
+5. Working links to yoru own social media accounts
+	-Facebook
+	-Twitter
+	-Instagram
+	-Linkedin
+	-Github/Gitlab
+6. Link to your captstone 1 website
+
+***Host your websites in Github
+
+Web design activity
+1.Think of 3 ideas of what your capstone 1 should be about
+2. Answer:
+Who are the owners of your websites?
+Who is your target audience?
+Why would you make these websites?
+3. Think of the appropriate color schemes, fnots, images
+4. Sketch the potential layouts of the page
+
+***
+Agenda for sept 2018
+1.Capstone 1 creation
+2. Portfolio creation
+-email /
+-name /
+-picture /
+-skills /
+-social links /
+-link to your capstone 1
+-responsive design
+***
+Ideas:-
+1. About Anime
+2. About Games
+3. About Fitness coaching services
+
