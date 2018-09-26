@@ -174,7 +174,14 @@ body,html{
 
     .btn-primary{background-color:#1d809f!important;border-color:#1d809f!important;color:#fff!important}.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#155d74!important;border-color:#155d74!important}.btn-secondary{background-color:#ecb807!important;border-color:#ecb807!important;color:#fff!important}.btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#ba9106!important;border-color:#ba9106!important}.btn-dark{color:#fff!important}
 
-    .btn{-webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);box-shadow:0 3px 3px 0 rgba(0,0,0,.1);font-weight:700}.bg-primary{background-color:#1d809f!important}
+    .btn{
+        -webkit-box-shadow:0 3px 3px 0 rgba(0,0,0,.1);
+        box-shadow:0 3px 3px 0 rgba(0,0,0,.1);
+        font-weight:700}
+
+    .bg-primary{
+        background-color:#1d809f!important
+    }
 
     .text-primary{color:#1d809f!important}
 
@@ -386,3 +393,4 @@ This animation simply moves the element left and right, now all we need to do is
     width: 320px; 
     height: 240px;
 }
+
